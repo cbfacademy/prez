@@ -20,7 +20,7 @@
     "opn": "^5.3.0",
     "optimist": "^0.6.1",
     "rc": "^1.2.8",
-    "reveal.js": "^3.6.0",
+    "reveal.js": "^4.3.1",
     "serve-index": "^1.9.1",
     "serve-static": "^1.13.2",
     "tiny-lr": "^1.1.1",
