@@ -2,7 +2,7 @@
 
 "use strict";
 
-var args = require("optimist").argv;
+var args = require("minimist")(process.argv.slice(2));
 var colors = require("colors"); // eslint-disable-line
 var cli = require("../lib/cli");
 var build = require("../lib/build");
